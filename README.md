@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Hang Lam
 
-<!--
-**HangLam-87/HangLam-87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Cloud Computing (AI Ethics focus)  
+💻 42 Warsaw – C Programming  
 
-Here are some ideas to get you started:
+I am transitioning into AI/data support and IT roles, with a focus on structured workflows, reliability, and technical foundations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- libft – Custom C library
+- ft_printf – Reimplementation of printf
+- get_next_line – File reading with memory management
+
+## Skills
+C • Python (basic) • SQL (basic)  
+Linux • Git • Cloud fundamentals  
+
+## Focus
+- AI/data operations
+- Annotation / data workflows
+- Technical support roles
